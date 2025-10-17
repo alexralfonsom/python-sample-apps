@@ -1,2 +1,2 @@
-# python-sample-apps
-Python Sample Apps
+# python-apps
+python-apps
